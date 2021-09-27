@@ -1,0 +1,35 @@
+City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Date,Current Description
+0,Busselton,AU,-33.65,115.3333,57.09,88,81,13.98,2021-09-26 23:20:25,broken clouds
+1,Kabinda,CD,-6.1333,24.4833,69.93,80,77,5.91,2021-09-26 23:20:25,broken clouds
+2,Barabai,ID,-2.5833,115.3833,74.8,96,84,0.96,2021-09-26 23:20:25,broken clouds
+3,Bathsheba,BB,13.2167,-59.5167,83.01,78,40,6.91,2021-09-26 23:20:26,scattered clouds
+4,Gat,IL,31.61,34.7642,77.92,100,1,4.34,2021-09-26 23:20:27,clear sky
+5,Hobart,AU,-42.8794,147.3294,53.26,68,20,1.99,2021-09-26 23:19:20,few clouds
+6,Chokurdakh,RU,70.6333,147.9167,27.57,87,100,15.3,2021-09-26 23:20:27,overcast clouds
+7,Severo-Kurilsk,RU,50.6789,156.125,51.57,83,82,12.24,2021-09-26 23:20:28,broken clouds
+8,Ushuaia,AR,-54.8,-68.3,40.66,60,20,11.5,2021-09-26 23:19:22,few clouds
+9,Kapaa,US,22.0752,-159.319,84.18,73,75,5.01,2021-09-26 23:19:20,light rain
+10,Pisco,PE,-13.7,-76.2167,62.65,77,0,18.41,2021-09-26 23:20:28,clear sky
+11,Albany,US,42.6001,-73.9662,61.45,73,5,6.13,2021-09-26 23:17:54,clear sky
+12,Kavaratti,IN,10.5669,72.642,81.14,79,100,25.46,2021-09-26 23:20:29,overcast clouds
+13,Bay Roberts,CA,47.5999,-53.2648,56.14,91,100,8.16,2021-09-26 23:20:29,overcast clouds
+14,Ponta Do Sol,PT,32.6667,-17.1,70.72,71,49,3.4,2021-09-26 23:20:30,scattered clouds
+15,Port Alfred,ZA,-33.5906,26.891,65.75,83,37,20.24,2021-09-26 23:20:30,scattered clouds
+16,Wad Madani,SD,14.4012,33.5199,82.44,56,9,6.91,2021-09-26 23:20:31,clear sky
+17,Busselton,AU,-33.65,115.3333,59.04,80,48,13.8,,scattered clouds
+18,Kabinda,CD,-6.1333,24.4833,69.12,80,78,5.19,,broken clouds
+19,Barabai,ID,-2.5833,115.3833,82.58,77,100,0.65,,overcast clouds
+20,Bathsheba,BB,13.2167,-59.5167,81.21,89,40,12.66,,scattered clouds
+21,Gat,IL,31.61,34.7642,76.91,100,0,4.14,,clear sky
+22,Hobart,AU,-42.8794,147.3294,55.06,57,20,4.0,,few clouds
+23,Chokurdakh,RU,70.6333,147.9167,26.83,93,100,16.35,,light snow
+24,Severo-Kurilsk,RU,50.6789,156.125,52.45,82,66,12.33,,broken clouds
+25,Ushuaia,AR,-54.8,-68.3,40.66,60,0,8.05,,clear sky
+26,Kapaa,US,22.0752,-159.319,84.52,74,40,5.99,,light rain
+27,Pisco,PE,-13.7,-76.2167,60.85,82,0,13.8,,clear sky
+28,Albany,US,42.6001,-73.9662,58.32,78,4,5.08,,clear sky
+29,Kavaratti,IN,10.5669,72.642,81.25,79,100,24.38,,overcast clouds
+30,Bay Roberts,CA,47.5999,-53.2648,55.44,96,100,7.74,,overcast clouds
+31,Ponta Do Sol,PT,32.6667,-17.1,70.43,71,27,3.36,,scattered clouds
+32,Port Alfred,ZA,-33.5906,26.891,64.33,91,25,19.57,,scattered clouds
+33,Wad Madani,SD,14.4012,33.5199,79.81,62,0,7.47,,clear sky
